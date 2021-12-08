@@ -21,3 +21,9 @@ Using the helpfull AOC library from Rémi Dupré, it abstracts all the work to l
 * Started refactoring day 1 into a separate module and created a template I can use to spawn a new file.
 * Challenge was easy.
 * Learned a bit more about tuples in Rust.
+
+## Day 3
+
+* Again, not hard to solve. But spent two days on this one (not full days, I've had other things to do).
+* Rust concepts are hard... the new kid on the block: lifetimes!!!
+
